@@ -1,6 +1,6 @@
 
 # react-native-advertising
-[![npm version](https://badge.fury.io/js/react-native-advertising.svg)](https://badge.fury.io/js/react-native-advertising-id)
+[![npm version](https://badge.fury.io/js/react-native-advertising.svg)](https://badge.fury.io/js/react-native-advertising)
 
 Consistent access to Advertising Id (AAID/GAID and IDFA) for Android and iOS on React Native.
 
@@ -38,7 +38,7 @@ Consistent access to Advertising Id (AAID/GAID and IDFA) for Android and iOS on 
 2. Append the following lines to `android/settings.gradle`:
     ```gradle
     include ':react-native-advertising'
-    project(':react-native-advertising').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-advertising-id/android')
+    project(':react-native-advertising').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-advertising/android')
     ```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
     ```gradle
