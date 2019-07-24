@@ -1,0 +1,30 @@
+{
+  "name": "react-native-advertising",
+  "version": "1.0.8",
+  "description": "React Native bridge for fetching advertising info on iOS and Android",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dmitryorelopt/react-native-advertising.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "advertising",
+    "gaid",
+    "aaid",
+    "idfa"
+  ],
+  "author": "Dmitry Orel(https://github.com/dmitryorelopt)",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "^0.60.4"
+  },
+  "peerDependencies": {
+    "react-native": "^0.58.4"
+  }
+}
