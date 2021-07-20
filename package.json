@@ -22,7 +22,7 @@
   "author": "Dmitry Orel(https://github.com/dmitryorelopt)",
   "license": "MIT",
   "devDependencies": {
-    "react-native": "^0.60.4"
+    "react-native": "^0.62.3"
   },
   "peerDependencies": {
     "react-native": "^0.58.4"
